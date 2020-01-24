@@ -17,4 +17,5 @@ the docset for PyRosetta API will named as PyRosetta.docset, import it to Dash o
 
 Demo: search any key words wiil help.!
 
-![使用方法-1320x802](/Users/kunkun/Documents/GitHub/PyrosettaAPI-Dash/使用方法-1320x802.jpg)
+![使用方法-1320x802]([https://github.com/guyujun/PyrosettaAPI-Dash/blob/master/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-1320x802.jpg](https://github.com/guyujun/PyrosettaAPI-Dash/blob/master/使用方法-1320x802.jpg))
+
